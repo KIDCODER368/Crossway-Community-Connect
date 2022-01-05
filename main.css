@@ -5,8 +5,44 @@ html{
 h1{
     align-items: center;
     justify-items: center;
-    color: blue;
+    color: rgb(4, 4, 20);
     padding: 100px;
     font-family: Comic Sans MS;
+   
     
+}
+body{
+    align-items: center;
+
+}
+#Uname{
+    border-radius: 24px ;
+    color:black;
+    font-family: Comic Sans MS;
+}
+#pass{
+    border-radius: 24px ;
+    color:black;
+    font-family: Comic Sans MS;
+}
+label{
+    color:black;
+    font-family: Comic Sans MS;
+    font-weight: bolder;
+}
+button{
+    margin:45px 0 30px 0 ;
+    height: 45px;
+    width: 365px;
+    font-size:15px ;
+    color: white;
+    outline:none ;
+    cursor: pointer;
+    font-weight: bold;
+    background: #1a237e ;
+    border-radius: 3px;
+    border: 1px solid #3949ab;
+
+    
+
 }
