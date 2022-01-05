@@ -1,0 +1,12 @@
+html{
+    background: url(oiu.jpg) no-repeat ;
+    background-size: cover;
+}
+h1{
+    align-items: center;
+    justify-items: center;
+    color: blue;
+    padding: 100px;
+    font-family: Comic Sans MS;
+    
+}
